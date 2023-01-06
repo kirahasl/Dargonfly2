@@ -1,4 +1,4 @@
-Codigo: 123
-Alumno: -
+Codigo: 001363405
+Alumno: Alex Diego Rosas Quispe
 Instructor: HENRY ANGEL SUAREZ LAZARTE
 Desarrollo: Programación del Juego
