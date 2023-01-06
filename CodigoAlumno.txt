@@ -1,0 +1,2 @@
+CodigoAlumnoSenati: 
+Nombres y Apellidos:

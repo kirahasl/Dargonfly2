@@ -1,0 +1,4 @@
+Codigo: 123
+Alumno: -
+Instructor: HENRY ANGEL SUAREZ LAZARTE
+Desarrollo: Programación del Juego
