@@ -1,4 +1,4 @@
-Codigo: 123
-Alumno: -
+Codigo: 001385679
+Alumno:Adan Williams Mamani Ccoa
 Instructor: HENRY ANGEL SUAREZ LAZARTE
 Desarrollo: Programación del Juego

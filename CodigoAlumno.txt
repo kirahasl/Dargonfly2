@@ -1,2 +1,2 @@
-CodigoAlumnoSenati: 
-Nombres y Apellidos:
+CodigoAlumnoSenati:001385679
+Nombres y Apellidos:Adan Williams Mamani Ccoa
