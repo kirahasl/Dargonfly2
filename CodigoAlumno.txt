@@ -1,2 +1,2 @@
-CodigoAlumnoSenati: 
-Nombres y Apellidos:
+CodigoAlumnoSenati: 001381374
+Nombres y Apellidos:Katherin Chara Huaycho

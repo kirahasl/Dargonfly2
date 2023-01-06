@@ -1,4 +1,4 @@
-Codigo: 123
-Alumno: -
+Codigo: 001381374
+Alumno: -Katherin Chara Huaycho
 Instructor: HENRY ANGEL SUAREZ LAZARTE
 Desarrollo: Programación del Juego
