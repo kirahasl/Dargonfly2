@@ -13,5 +13,5 @@
    
    
    echo "Henry Angel Suarez Lazarte";
-   echo "Angel Suarez";
+   echo "Angel     Suarez";
 ?>
