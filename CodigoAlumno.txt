@@ -1,2 +1,2 @@
-CodigoAlumnoSenati: 1368527
-Nombres y Apellidos:Wilfredo Choquehuayta Turpo
+CodigoAlumnoSenati: 001363405
+Nombres y Apellidos: Alex Diego Rosas Quispe
