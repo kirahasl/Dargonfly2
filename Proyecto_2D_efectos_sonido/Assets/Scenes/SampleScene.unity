@@ -453,7 +453,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8772193788268811591, guid: d5b0063dbb514664e86383b5ef195418, type: 3}
       propertyPath: m_Name
-      value: Frog
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 8772193788268811640, guid: d5b0063dbb514664e86383b5ef195418, type: 3}
       propertyPath: m_RootOrder

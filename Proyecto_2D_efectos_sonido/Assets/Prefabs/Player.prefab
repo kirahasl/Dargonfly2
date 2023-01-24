@@ -87,7 +87,7 @@ GameObject:
   - component: {fileID: 8772193788268811645}
   - component: {fileID: 8772193788268811644}
   m_Layer: 0
-  m_Name: Frog
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -240,8 +240,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b47a47a72f55b74e9904ea8af3318db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correrSpeed: 2
-  saltarSpeed: 4
+  correrSpeed: 5
+  saltarSpeed: 5
   gransalto: 1
   multiplicador: 0.5
   bajo_multiplicador: 1
