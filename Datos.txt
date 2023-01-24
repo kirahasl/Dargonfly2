@@ -1,6 +1,0 @@
-Codigo: 001381374
-Alumno: -Katherin Chara Huaycho
-Código: 1368527
-Alumno: Wilfredo Choquehuayta Turpo
-Instructor: HENRY ANGEL SUAREZ LAZARTE
-Desarrollo: Programación del Juego
