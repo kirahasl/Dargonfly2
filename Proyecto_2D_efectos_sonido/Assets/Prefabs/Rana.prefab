@@ -170,7 +170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   correrSpeed: 2
-  saltarSpeed: 4
+  saltarSpeed: 3.5
   gransalto: 1
   multiplicador: 0.5
   bajo_multiplicador: 1
