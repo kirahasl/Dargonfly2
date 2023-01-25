@@ -217,15 +217,120 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 585420085186612716, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 618624345928375821, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 618624346641667974, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 618624346886522415, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 784770012174597915, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 784770012174597917, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
       propertyPath: m_Name
       value: Cherries
       objectReference: {fileID: 0}
+    - target: {fileID: 1039046223977348884, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Name
+      value: Cherries
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039046223977348887, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.657
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039046223977348887, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.086
+      objectReference: {fileID: 0}
+    - target: {fileID: 1098950669819890241, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2629478543082706219, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
       propertyPath: m_Name
       value: Frutas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3515679277409334934, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3687813491584567190, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4892612984559769260, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Name
+      value: Cherries
+      objectReference: {fileID: 0}
+    - target: {fileID: 4892612984559769263, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.604
+      objectReference: {fileID: 0}
+    - target: {fileID: 4892612984559769263, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.131
+      objectReference: {fileID: 0}
+    - target: {fileID: 4938221453134704100, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Name
+      value: Bananas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4938221453134704106, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4938221453134704106, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.292
+      objectReference: {fileID: 0}
+    - target: {fileID: 5150044972010507888, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Name
+      value: Bananas
+      objectReference: {fileID: 0}
+    - target: {fileID: 5150044972010507902, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.824
+      objectReference: {fileID: 0}
+    - target: {fileID: 5150044972010507902, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.838
+      objectReference: {fileID: 0}
+    - target: {fileID: 7243779032269360391, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.485
+      objectReference: {fileID: 0}
+    - target: {fileID: 7243779032269360391, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.405
+      objectReference: {fileID: 0}
+    - target: {fileID: 7243779032269360393, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Name
+      value: Bananas
+      objectReference: {fileID: 0}
+    - target: {fileID: 7367819327667396008, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Name
+      value: Cherries
+      objectReference: {fileID: 0}
+    - target: {fileID: 7367819327667396011, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.775
+      objectReference: {fileID: 0}
+    - target: {fileID: 7367819327667396011, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.2
       objectReference: {fileID: 0}
     - target: {fileID: 8896041247874790701, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
       propertyPath: m_RootOrder
@@ -271,13 +376,19 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8950100024216480720, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
 --- !u!1001 &712663112773911001
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 712663112706169716, guid: 3a2c7b74f956d354eb41b4aceb483448, type: 3}
@@ -1773,12 +1884,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a2c7b74f956d354eb41b4aceb483448, type: 3}
 --- !u!1001 &2433120564112535827
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2433120564679824064, guid: 56fee26289f80724f8e6e2d85035e75c, type: 3}
@@ -1834,12 +1947,14 @@ PrefabInstance:
       value: Sala_Enemigo_Cadro
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 56fee26289f80724f8e6e2d85035e75c, type: 3}
 --- !u!1001 &5303045609824099902
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5303045609889260852, guid: c7a7c780d5c1a5145ae0873c6ae41a8c, type: 3}
@@ -1891,12 +2006,14 @@ PrefabInstance:
       value: AudioManager
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c7a7c780d5c1a5145ae0873c6ae41a8c, type: 3}
 --- !u!1001 &6105280396962190882
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 6105280398207044995, guid: c64c56762ca96bf40af8d2e43eab1253, type: 3}
@@ -1948,4 +2065,5 @@ PrefabInstance:
       value: Frog
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c64c56762ca96bf40af8d2e43eab1253, type: 3}
