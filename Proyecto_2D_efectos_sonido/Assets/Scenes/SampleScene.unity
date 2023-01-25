@@ -217,6 +217,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 784770012174597917, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
@@ -272,12 +273,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 7718f0287d04d1f4dbc240cdb9f11863, type: 3}
 --- !u!1001 &712663112773911001
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 712663112706169716, guid: 3a2c7b74f956d354eb41b4aceb483448, type: 3}
@@ -1773,12 +1776,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a2c7b74f956d354eb41b4aceb483448, type: 3}
 --- !u!1001 &2433120564112535827
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2433120564679824064, guid: 56fee26289f80724f8e6e2d85035e75c, type: 3}
@@ -1834,12 +1839,14 @@ PrefabInstance:
       value: Sala_Enemigo_Cadro
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 56fee26289f80724f8e6e2d85035e75c, type: 3}
 --- !u!1001 &5303045609824099902
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5303045609889260852, guid: c7a7c780d5c1a5145ae0873c6ae41a8c, type: 3}
@@ -1890,13 +1897,23 @@ PrefabInstance:
       propertyPath: m_Name
       value: AudioManager
       objectReference: {fileID: 0}
+    - target: {fileID: 5303045609889260855, guid: c7a7c780d5c1a5145ae0873c6ae41a8c, type: 3}
+      propertyPath: m_Volume
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5303045609889260855, guid: c7a7c780d5c1a5145ae0873c6ae41a8c, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 30fbe43602c965f499ed1ba8021fd812, type: 3}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c7a7c780d5c1a5145ae0873c6ae41a8c, type: 3}
 --- !u!1001 &6105280396962190882
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 6105280398207044995, guid: c64c56762ca96bf40af8d2e43eab1253, type: 3}
@@ -1948,4 +1965,5 @@ PrefabInstance:
       value: Frog
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: c64c56762ca96bf40af8d2e43eab1253, type: 3}
