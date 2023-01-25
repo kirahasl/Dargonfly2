@@ -30,7 +30,7 @@ Transform:
   m_Children:
   - {fileID: 4179756834088188866}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4179756832926635226
 GameObject:
@@ -317,7 +317,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   correrSpeed: 2
-  saltarSpeed: 4
+  saltarSpeed: 6
   gransalto: 1
   multiplicador: 0.5
   bajo_multiplicador: 1
