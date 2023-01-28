@@ -321,6 +321,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5fa760be69965b64b937cd9527b847b1, type: 3}
+--- !u!1001 &3599531892789420981
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7161122234365332055, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7496487670681612301, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
+      propertyPath: m_Name
+      value: Enemigos
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8233df9c2d76eef469741938133ddcbe, type: 3}
 --- !u!1001 &5140966814011149486
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -559,6 +616,10 @@ PrefabInstance:
     - target: {fileID: 4677887469965148010, guid: 26281e0c8c25e8a4e85dac9bfd515d97, type: 3}
       propertyPath: m_Name
       value: Trampas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4677887469965148010, guid: 26281e0c8c25e8a4e85dac9bfd515d97, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7973715578225068271, guid: 26281e0c8c25e8a4e85dac9bfd515d97, type: 3}
       propertyPath: m_RootOrder
