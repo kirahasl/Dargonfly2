@@ -27,6 +27,7 @@ public class Player : MonoBehaviour
         if (Input.GetKey("d") || Input.GetKey("right"))
         {
             rb2D.velocity = new Vector2(correrSpeed, rb2D.velocity.y);
+            
         }
         else if (Input.GetKey("a") || Input.GetKey("left"))
         {
