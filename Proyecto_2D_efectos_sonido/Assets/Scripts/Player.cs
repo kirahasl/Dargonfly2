@@ -13,6 +13,8 @@ public class Player : MonoBehaviour
     public float bajo_multiplicador = 1.0f;
     public AudioSource clipJump;
 
+    public SpriteRenderer spriteRenderer; //Variable de renderizacion para move la direccion del sprite
+    public Animator animator; //Para heredar las animaciones del Player.
     // Start is called before the first frame update
     void Start()
     {
@@ -27,21 +29,35 @@ public class Player : MonoBehaviour
         if (Input.GetKey("d") || Input.GetKey("right"))
         {
             rb2D.velocity = new Vector2(correrSpeed, rb2D.velocity.y);
-            
+            spriteRenderer.flipX = false;
+            animator.SetBool("Run", true); //para setear la variable y decir que se quede en run en el animator
+
         }
         else if (Input.GetKey("a") || Input.GetKey("left"))
         {
             rb2D.velocity = new Vector2(-correrSpeed, rb2D.velocity.y);
+            spriteRenderer.flipX = true;
+            animator.SetBool("Run", true); //para setear la variable y decir que se quede en run en el animator
         }
         else
         {
             rb2D.velocity = new Vector2(0, rb2D.velocity.y);
+            animator.SetBool("Run", false); //para setear la variable y decir que se quede en idle en el animator
         }
 
         //movimiento del personaje para saltar
         if (Input.GetKey("space") && Ground.isGround) {
             rb2D.velocity = new Vector2(rb2D.velocity.x,saltarSpeed);
             clipJump.Play();
+            
+        }
+        if (Ground.isGround == false)
+        {
+            animator.SetBool("Jump", true); //para setear la variable y decir que se quede en Jump en el animator
+            animator.SetBool("Run", false); //para setear la variable y decir que no haga animacion de salto.
+        }
+        else {
+            animator.SetBool("Jump", false); //para setear la variable y decir que se quede en run en el animator
         }
 
         //gran salto

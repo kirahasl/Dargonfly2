@@ -169,12 +169,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b47a47a72f55b74e9904ea8af3318db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correrSpeed: 3
+  correrSpeed: 2
   saltarSpeed: 4
   gransalto: 1
   multiplicador: 0.5
   bajo_multiplicador: 1
   clipJump: {fileID: 2398803958075992629}
+  spriteRenderer: {fileID: 0}
+  animator: {fileID: 0}
 --- !u!82 &2398803958075992629
 AudioSource:
   m_ObjectHideFlags: 0
