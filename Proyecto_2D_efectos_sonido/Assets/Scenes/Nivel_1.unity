@@ -123,6 +123,16 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &36876976 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8549413208353576358, guid: 9b605806b64ef2a44865e6f5916a3dfb, type: 3}
+  m_PrefabInstance: {fileID: 8549413208383825686}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &474458292 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6480770234931977766, guid: 6742fc43d4fbe2849aa89b9dcb690778, type: 3}
+  m_PrefabInstance: {fileID: 6480770235003319954}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -2933,6 +2943,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -4849859105220525970, guid: ac34e3b623be2334ea58eb605d153770, type: 3}
+      propertyPath: transition
+      value: 
+      objectReference: {fileID: 36876976}
+    - target: {fileID: -4849859105220525970, guid: ac34e3b623be2334ea58eb605d153770, type: 3}
+      propertyPath: levelCompleted
+      value: 
+      objectReference: {fileID: 474458292}
     - target: {fileID: 162440399030894859, guid: ac34e3b623be2334ea58eb605d153770, type: 3}
       propertyPath: m_Name
       value: FrutasManager
