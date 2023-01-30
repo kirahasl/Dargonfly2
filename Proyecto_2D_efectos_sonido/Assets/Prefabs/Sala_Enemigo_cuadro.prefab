@@ -196,7 +196,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip: {fileID: 2517776329163450210}
-  MusicaFondo: {fileID: 0}
+  MusicaFondo: {fileID: 5140966813946001318, guid: f1033324c47e67042bb1b09ab8c2640f, type: 3}
 --- !u!61 &2517776329163450236
 BoxCollider2D:
   m_ObjectHideFlags: 0
