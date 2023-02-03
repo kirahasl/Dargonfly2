@@ -18,8 +18,9 @@ public class FruitManager : MonoBehaviour
 
 
             levelCompleted.SetActive(true);
-            transition.SetActive(true);
-            Invoke("CambiarEscenario", 1.5f);
+
+            //transition.SetActive(true);
+            //Invoke("CambiarEscenario", 1.5f);
 
         }
     }

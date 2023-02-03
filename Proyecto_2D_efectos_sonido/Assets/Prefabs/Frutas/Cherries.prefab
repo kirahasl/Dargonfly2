@@ -253,6 +253,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip: {fileID: 6368781974750175463}
+  cantidadPuntos: 100
+  puntaje: {fileID: 6255159475596804601, guid: bc40f47d23b42ae4abae931cf80c80d4, type: 3}
 --- !u!82 &6368781974750175463
 AudioSource:
   m_ObjectHideFlags: 0
