@@ -48,6 +48,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelCompleted: {fileID: 6480770234931977766, guid: 6742fc43d4fbe2849aa89b9dcb690778, type: 3}
   transition: {fileID: 8549413208353576358, guid: 9b605806b64ef2a44865e6f5916a3dfb, type: 3}
+  txtPuntaje: {fileID: 6255159475596804607, guid: bc40f47d23b42ae4abae931cf80c80d4, type: 3}
 --- !u!1001 &307184564355143115
 PrefabInstance:
   m_ObjectHideFlags: 0
